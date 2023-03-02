@@ -1,6 +1,6 @@
 # **Mental Health Prediction for Kenyan university students**
 
-<img src="Images\mentalhealth.jpg" alt="Mental Health image" width="750" height="400">
+<img src="Images\mental_health.jpg" alt="Mental Health image" width="750" height="400">
 
 ## Overview
 ****
@@ -30,4 +30,4 @@ The data used in this project is from the <a href="https://zindi.africa/competit
 
 
 ## Repository Structure
-***# Mental-Health-Prediction-for-Kenyan-university-students
+***

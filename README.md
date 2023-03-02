@@ -1,6 +1,6 @@
 # **Mental Health Prediction for Kenyan university students**
 
-<img src="Images\mental_health.jpg" alt="Mental Health image" width="750" height="400">
+<img src="Images\mental-health.jpg" alt="Mental Health image" width="750" height="400">
 
 ## Overview
 ****

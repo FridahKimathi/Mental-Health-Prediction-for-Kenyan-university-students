@@ -27,12 +27,15 @@ The data used in this project is from the <a href="https://zindi.africa/competit
 ## Modelling
 ***
 Different models were evaluated and the best performing model was picked to be the final model.The XGBoost Classifier was picked as the final model, with its parameters being the best parameters found through grid search.
-                 Models
+            Models
  <img src="Images\models.jpg"  width="650" height="400"> 
 
 ## Evaluation
 ***
-
+<ul>
+<li>Due to the imbalance in the dataset the F1-score for drug and alcohol was notably lower than depression and suicide.</li> </br>
+<li>Due to a relatively small dataset we could not achieve high score as desired.</li> 
+</ul>
 
 ## Conclusion
 ***

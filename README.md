@@ -27,8 +27,9 @@ The data used in this project is from the <a href="https://zindi.africa/competit
 ## Modelling
 ***
 Different models were evaluated and the best performing model was picked to be the final model.The XGBoost Classifier was picked as the final model, with its parameters being the best parameters found through grid search.
+
             Models
- <img src="Images\models.jpg"  width="650" height="400"> 
+<img src="Images\models.jpg"  width="650" height="400"> 
 
 ## Evaluation
 ***
